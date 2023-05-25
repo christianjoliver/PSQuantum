@@ -1,5 +1,5 @@
 # Implementation of the security pricing algorithm
----
+
 ## Algorithm used: FixedRateBond
 
 Project developed for an internship in Quantitative Methods proposed by the company Quantum. This project consists of implementing a security pricing model using the QuantLib library.
