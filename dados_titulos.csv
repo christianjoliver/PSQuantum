@@ -1,0 +1,6 @@
+id;titulo;valor_nominal;prazo;taxa_juros
+1;Titulo A;10000;5;0.05
+2;Titulo B;15000;10;0.07
+3;Titulo C;20000;8;0.06
+4;Titulo D;12000;3;0.04
+5;Titulo E;18000;6;0.055
